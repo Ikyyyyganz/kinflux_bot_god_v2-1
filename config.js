@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254768005355', 'kinflux bot', true],
-  ['+254110377776', 'zamzack254', true], 
+  ['628385566929', 'kinflux bot', true],
+  ['628385566929', 'kyy Hloweship', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['22589747147','254110377776','254765777423'] 
-global.prems = ['22589747147', '254110377776', '254740654689']
+global.mods = ['628385566929','254110377776','254765777423'] 
+global.prems = ['628385566929', '254110377776', '254740654689']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -59,10 +59,10 @@ global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*SABAR MAS AKU TAU KAMU NAU CROT*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = 'INI SAYANG DARI KYY'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
